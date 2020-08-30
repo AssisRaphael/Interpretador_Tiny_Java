@@ -3,7 +3,7 @@ Este repositório contém um interpretador para a linguagem tiny feito em java
 
 Este projeto implementa em Java um interpretador para a linguagem tiny, a qual possui a seguinte
 gramática:
-~~~html
+~~~xml
 <programa> => <lista_comandos> "endp"
 <lista_comandos> => <comando> ";"
                  => <comando> ";" <lista_comandos>
