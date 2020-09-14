@@ -1,5 +1,5 @@
 # Interpretador Tiny em Java
-Este repositório contém um interpretador para a linguagem tiny feito em java
+Este repositório contém um interpretador para a linguagem tiny feito em java realizado como projeto prático da disciplina Linguagens de Programação do curso de graduação em engenharia de computação no CEFETMG. 
 
 Este projeto implementa em Java um interpretador para a linguagem tiny, a qual possui a seguinte
 gramática:
